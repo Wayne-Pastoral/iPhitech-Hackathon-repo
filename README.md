@@ -1,1 +1,1 @@
-# iPhitech-Hackathon-repo
+# iPhiTech-Hackathon-repo
