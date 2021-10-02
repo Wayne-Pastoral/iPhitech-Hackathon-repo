@@ -78,17 +78,17 @@
             <div class="row">
                 <div class="col">
                     <i class="fas fa-user-edit"></i>
-                    <h6>First, but unordered</h6>
+                    <h6>Route</h6>
                     <button>ADD MEMBERS</button>
                 </div>
                 <div class="col">
                     <i class="fas fa-user-tag"></i>
-                    <h6>Second, but last</h6>
+                    <h6>Work</h6>
                     <button>ADD ASSIGNED MEMBERS</button>
                 </div>
                 <div class="col">
                     <i class="fas fa-users-cog"></i>
-                    <h6>Third, but first</h6>
+                    <h6>Duty</h6>
                     <button>ADD MEMBERS</button>
                 </div>
             </div>
