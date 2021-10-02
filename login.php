@@ -29,7 +29,7 @@
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body>
-<section class="h-100" style="background-color: #9A616D;">
+<section class="h-100" style="background-color: #0032A1;">
   <div class="container py-5 h-100">
     <div class="row d-flex justify-content-center align-items-center h-100">
       <div class="col col-xl-10">
@@ -69,7 +69,7 @@
                   <div class="pt-1 mb-4">
                     <a class="btn btn-dark btn-lg btn-block" href="index.php">Login</a>
                   </div>
-
+            
                   <a class="small text-muted" href="#!">Forgot password?</a>
                   <p  class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="signup.php"  style="color: #393f81;">Register here</a></p>
                   <a href="#!" class="small text-muted">Terms of use.</a>

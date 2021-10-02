@@ -64,7 +64,8 @@ session_start();
                     <input id="text" type="password" name="password" class="form-control form-control-lg">
                     <label class="form-label" for="password">Password</label>
 
-                    <input class="btn btn-dark btn-lg btn-block" id="button" type="submit" name="submit" value="Signup">
+                    <input class="btn btn-dark btn-lg btn-block mb-3" id="button" type="submit" name="submit" value="Signup">
+                    <a class="text-dark mt-5" href="login.php">Click to Login</a>
                 </form>
             </div>
           </div>
